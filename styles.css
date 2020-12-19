@@ -3,7 +3,26 @@ h3 {
   
 }
 
+#description {
+  text-align: right;
+  padding: 25px;
+}
+
 .responsive {
   width: 25%;
   height: auto;
+}
+
+.homeBtn {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  align-content: right;
+}
+
+footer {
+  margin-top: 75px;
+  text-align: center;
 }
