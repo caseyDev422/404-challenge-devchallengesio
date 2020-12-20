@@ -6,6 +6,7 @@ h3 {
 #description {
   text-align: center;
   padding: 25px;
+  font-family: 'Orbitron', sans-serif;
 }
 
 .responsive {
@@ -27,4 +28,5 @@ footer {
   text-align: center;
   margin-top: 75px;
   margin-left: 15px;
+  font-family: 'Orbitron', sans-serif;
 }
