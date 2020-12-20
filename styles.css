@@ -4,7 +4,7 @@ h3 {
 }
 
 #description {
-  text-align: right;
+  text-align: center;
   padding: 25px;
 }
 
@@ -20,9 +20,11 @@ h3 {
   border-radius: 8px;
   cursor: pointer;
   align-content: right;
+  margin-left: 295px;
 }
 
 footer {
-  margin-top: 75px;
   text-align: center;
+  margin-top: 75px;
+  margin-left: 15px;
 }
